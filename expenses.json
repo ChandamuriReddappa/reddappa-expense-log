@@ -1,0 +1,21 @@
+[
+  {"date": "2025-07-01", "item": "Milk", "category": "Groceries", "amount": 35, "paid_by": "Self"},
+  {"date": "2025-07-01", "item": "Mosambi", "category": "Fruits", "amount": 100, "paid_by": "Self"},
+  {"date": "2025-07-01", "item": "Sugarcane Juice", "category": "Beverage", "amount": 20, "paid_by": "Self"},
+  {"date": "2025-07-01", "item": "Chair (Kid Use)", "category": "Furniture", "amount": 350, "paid_by": "Self"},
+  {"date": "2025-07-01", "item": "Milk (Evening)", "category": "Groceries", "amount": 35, "paid_by": "Self"},
+  {"date": "2025-07-02", "item": "Bottle & Milk for Kid", "category": "Baby Needs", "amount": 90, "paid_by": "Self"},
+  {"date": "2025-07-02", "item": "Cool Drinks", "category": "Beverage", "amount": 40, "paid_by": "Wife"},
+  {"date": "2025-07-02", "item": "Vegetables", "category": "Groceries", "amount": 100, "paid_by": "Wife"},
+  {"date": "2025-07-02", "item": "Milk", "category": "Groceries", "amount": 35, "paid_by": "Wife"},
+  {"date": "2025-07-02", "item": "Lunch", "category": "Dining", "amount": 230, "paid_by": "Wife"},
+  {"date": "2025-07-02", "item": "Dinner", "category": "Dining", "amount": 330, "paid_by": "Wife"},
+  {"date": "2025-07-03", "item": "Cool Drinks", "category": "Beverage", "amount": 40, "paid_by": "Wife"},
+  {"date": "2025-07-03", "item": "Ice Cream", "category": "Dessert", "amount": 100, "paid_by": "Wife"},
+  {"date": "2025-07-03", "item": "Sweet", "category": "Dessert", "amount": 120, "paid_by": "Wife"},
+  {"date": "2025-07-03", "item": "Chips", "category": "Snacks", "amount": 80, "paid_by": "Wife"},
+  {"date": "2025-07-03", "item": "Dosa", "category": "Dining", "amount": 70, "paid_by": "Wife"},
+  {"date": "2025-07-04", "item": "Breakfast (Tiffin)", "category": "Dining", "amount": 130, "paid_by": "Wife"},
+  {"date": "2025-07-04", "item": "Milk", "category": "Groceries", "amount": 35, "paid_by": "Wife"},
+  {"date": "2025-07-04", "item": "Ice Cream", "category": "Dessert", "amount": 100, "paid_by": "Wife"}
+]
